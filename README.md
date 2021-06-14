@@ -4,6 +4,6 @@ It also provides the range of data for each person such as name,address,mobile n
 
 The app also uses CSS animation concepts.
 
-Technologies used: HTML, CSS, React JS.
+#### Technologies used: HTML, CSS, React JS.
 
-This project is guided by John Smilga
+##### project is guided by John Smilga
